@@ -5,6 +5,7 @@ slug: protein-supplement-safety
 date: 2025-10-23 23:19:35+0200
 tags:
     - health
+    - food
 ---
 
 Some months ago, a friend recommended me the [Viva Longevity](https://www.youtube.com/@Viva-Longevity) channel, and I occasionally watch it during brunch and dinner times. 
