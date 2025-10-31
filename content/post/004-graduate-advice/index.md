@@ -5,6 +5,7 @@ slug: graduate-advice
 date: 2025-10-24 08:45:32+0200
 tags:
     - career
+    - cognitive-science
 ---
 
 I recently received an email from one of my professors titled *Some non-obvious advice for psych graduate students*. I wanted to share it publicly, but found no obvious public links in the email that was forwarded from one of Substack's mailing list. Though, after inspecting the url for Varun Shennoy's substack `varunshenoy.substack.com` this morning, the critical part seemed to be obtaining some *username*, and then the website should be at `<username>.substack.com`. And there it was `paulbloom.substack.com` that I could share publicly. Enough Meta!
