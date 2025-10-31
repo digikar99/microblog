@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cognitive-Science on digikar's microblog</title><link>https://digikar99.github.io/microblog/tags/cognitive-science/</link><description>Recent content in Cognitive-Science on digikar's microblog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 31 Oct 2025 13:00:08 +0100</lastBuildDate><atom:link href="https://digikar99.github.io/microblog/tags/cognitive-science/index.xml" rel="self" type="application/rss+xml"/><item><title>Memory (Oct. 2025)</title><link>https://digikar99.github.io/microblog/p/memory-oct-2025/</link><pubDate>Fri, 31 Oct 2025 13:00:08 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/memory-oct-2025/</guid><description>&lt;p&gt;How humans learn and store information and knowledge has been interesting to me. Although not enough to pursue a doctoral research on it. Although, it is also the case that I was advised not to silo myself into a &amp;ldquo;topic of cognition&amp;rdquo; but rather to start from an intriguing phenomenon and let that phenomenon guide my investigation. I think I like that advice.&lt;/p&gt;
+&lt;p&gt;So, how do I think human learning and memory work? Here&amp;rsquo;s an attempt.&lt;/p&gt;
+&lt;p&gt;Given an organism in an environment, the organism&amp;rsquo;s sensors make (transduce) sensory representations $S$ from the environment. This could involve electromagnetic radiation such as light, or vibrations such as by sound or ultrasound, or tactile such as by touch, or something more exotic. The environment may be external to the organism or it could be internal, to account for hunger, thirst, etc. For simplicity, one may assume that the same environment produces the same sensory representations. Thus, its sensors may be said to be &lt;em&gt;functional&lt;/em&gt; (as in &lt;a class="link" href="https://www.reddit.com/r/explainlikeimfive/comments/1cq60cn/eli5_what_is_functional_programming_and_how_is_it/" target="_blank" rel="noopener"
+&gt;functional programming&lt;/a&gt;). If we allowed sensors to be non-functional in characteristic, it seems possible to attribute the entire process of cognition to sensors alone (citation needed). Such a sensory representation may also have a temporal component.&lt;/p&gt;
+&lt;p&gt;Such a sensory representation $S$ only lasts very briefly (citations on classic sensory memory experiments). It must be &lt;em&gt;transformed&lt;/em&gt; into a conceptual representation $C_S$ for it to be available in the long run. The conceptual representation in turn may depend on an earlier conceptual structure, so we label the conceptual representation with a timestamp $t$: $C_{S,t}$. Doing so devoids the conceptual representation from a temporal component.&lt;/p&gt;
+&lt;p&gt;It is ubiquitous that episodic (layman speak: contextual) and semantic (layman speak: context-free) memories are two aspects of our experience. How do these two aspects arise?&lt;/p&gt;
+&lt;p&gt;A conceptual representation $C$ is a structure built out of concepts available from an existing concept-database $\mathcal C$. The structure may be atomic or compound. The concept databases includes atomic-concepts (nouns) as well as relation-concepts (adjectives, verbs, prepositions) to describe or combine existing structures into new compound structures. This raises several questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What are atomic-concepts? Or what determines whether some concept is atomic?&lt;/li&gt;
+&lt;li&gt;How are relation-concepts created?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The concept database also allows us to compute the probability $P(C' | \mathcal C_{S,t}, S)$ of new conceptual structure $C'$ given the current concept-database $\mathcal C$, the current conceptual representation $C_{S,t}$, and sensory representation $S$. I use probability for convenience, but it could be any other measure of uncertainty.&lt;/p&gt;
+&lt;p&gt;To answer the questions, we require postulating two concept-learning processes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first process $\mathcal P_{\text{atomic}}$ can make new atomic concepts out of sensory representations. An atomic concept $C'$ is characterized by &lt;em&gt;traces&lt;/em&gt; of sensory representations that were used to make the concept, as well as some conditional probabilities $P(C' | \mathcal C_{S,t}, S)$. What exact conditional probabilities are involved might be an open question. Perhaps they correspond to the concepts $C_{S,t}$ used to &lt;em&gt;predict&lt;/em&gt; this new concept $C&amp;rsquo;$? Additionally, what do I mean by &lt;em&gt;traces&lt;/em&gt;?&lt;/li&gt;
+&lt;li&gt;The second process $\mathcal P_{\text{relational}}$ can make new relational concepts out of sensory representations as well as existing concepts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stating this also partly answers question 2: A concept is atomic if it depends solely on sensory representations. A concept is relational if it depends on both sensory representations or other concepts. But this raises yet another question: what do I mean here by &lt;em&gt;depend on&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Semantic Memory is identical to the concept database $\mathcal C$.&lt;/p&gt;
+&lt;p&gt;We say that a concept is &lt;em&gt;active&lt;/em&gt; if it is a part of the current conceptual representation $C_{S,t}$.&lt;/p&gt;
+&lt;p&gt;Episodic Memory works as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The organisms cognitive system produces a sequence of conceptual representations $(C_1, &amp;hellip;, C_t)$ from the sucessive sensory representations its sensors produce. In a well-functioning organism, the production of such a sequence also creates a &lt;em&gt;sequence&lt;/em&gt; of &lt;em&gt;activations&lt;/em&gt; corresponding to different concepts. This sequence of activations is recorded by some cognitive-subsystem (perhaps hippocampus?).&lt;/li&gt;
+&lt;li&gt;During recall, this sequence of activations is replayed back by the cognitive-subsystem that had recorded the activations. Because recall involves relations to concepts that are earlier or later in the sequence, episodic memory is conceptual.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Open questions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What exactly do I mean by &lt;em&gt;depend&lt;/em&gt;?&lt;/li&gt;
+&lt;li&gt;How exactly do the concept-generating processes operate? This needs to be specified in (much) more detail.&lt;/li&gt;
+&lt;li&gt;What do I mean by &lt;em&gt;traces&lt;/em&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And finally, what predictions does this make?&lt;/p&gt;
+&lt;p&gt;Of course, comparison with existing literature is an open task on its own.&lt;/p&gt;</description></item><item><title>Advice for (Psychology) Graduate Students</title><link>https://digikar99.github.io/microblog/p/graduate-advice/</link><pubDate>Fri, 24 Oct 2025 08:45:32 +0200</pubDate><guid>https://digikar99.github.io/microblog/p/graduate-advice/</guid><description>&lt;p&gt;I recently received an email from one of my professors titled &lt;em&gt;Some non-obvious advice for psych graduate students&lt;/em&gt;. I wanted to share it publicly, but found no obvious public links in the email that was forwarded from one of Substack&amp;rsquo;s mailing list. Though, after inspecting the url for Varun Shennoy&amp;rsquo;s substack &lt;code&gt;varunshenoy.substack.com&lt;/code&gt; this morning, the critical part seemed to be obtaining some &lt;em&gt;username&lt;/em&gt;, and then the website should be at &lt;code&gt;&amp;lt;username&amp;gt;.substack.com&lt;/code&gt;. And there it was &lt;code&gt;paulbloom.substack.com&lt;/code&gt; that I could share publicly. Enough Meta!&lt;/p&gt;
+&lt;p&gt;If you are a psychology graduate student (or perhaps even a postdoctoral researcher or someone in their early career), definitely check it out!&lt;/p&gt;
+&lt;center&gt;
+&lt;a class="link" href="https://smallpotatoes.paulbloom.net/p/some-non-obvious-advice-for-psych"&gt;
+Some non-obvious advice for psych graduate students
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;Another of Paul Bloom&amp;rsquo;s post I liked and can suggest reading is&lt;/p&gt;
+&lt;center&gt;
+&lt;a class="link" href="https://smallpotatoes.paulbloom.net/p/the-only-interdisciplinary-conversations"&gt;
+The only interdisciplinary conversations worth having
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;To be honest, that&amp;rsquo;s a strong take. I think from an interdisciplinary research perspective, it still makes sense. However, I also think there&amp;rsquo;s more to interdisciplinary research. I should share an article I had found another day; it&amp;rsquo;s a tangential topic on philosophy of interdisciplinary research rather than advice for graduate school.&lt;/p&gt;
+&lt;p&gt;Coming back to graduate school advice, I had come across a book last year. I suspect it was this, but it could be different. It is slighly hefty at 400+ pages, but given that they are plain english rather than academic jargon, it should be an easy read over lunch hours or a weekend or two. Goodreads reviewers rate it quite highly.&lt;/p&gt;
+&lt;center&gt;
+&lt;a class="link" href="https://www.goodreads.com/book/show/52579211-a-field-guide-to-grad-school"&gt;
+A Field Guide to Grad School: Uncovering the Hidden Curriculum
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;Good luck!&lt;/p&gt;</description></item></channel></rss>

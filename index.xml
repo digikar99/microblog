@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>digikar's microblog</title><link>https://digikar99.github.io/microblog/</link><description>Recent content on digikar's microblog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 31 Oct 2025 13:00:08 +0100</lastBuildDate><atom:link href="https://digikar99.github.io/microblog/index.xml" rel="self" type="application/rss+xml"/><item><title>Memory (Oct. 2025)</title><link>https://digikar99.github.io/microblog/p/memory-oct-2025/</link><pubDate>Fri, 31 Oct 2025 13:00:08 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/memory-oct-2025/</guid><description>&lt;p&gt;How humans learn and store information and knowledge has been interesting to me. Although not enough to pursue a doctoral research on it. Although, it is also the case that I was advised not to silo myself into a &amp;ldquo;topic of cognition&amp;rdquo; but rather to start from an intriguing phenomenon and let that phenomenon guide my investigation. I think I like that advice.&lt;/p&gt;
+&lt;p&gt;So, how do I think human learning and memory work? Here&amp;rsquo;s an attempt.&lt;/p&gt;
+&lt;p&gt;Given an organism in an environment, the organism&amp;rsquo;s sensors make (transduce) sensory representations $S$ from the environment. This could involve electromagnetic radiation such as light, or vibrations such as by sound or ultrasound, or tactile such as by touch, or something more exotic. The environment may be external to the organism or it could be internal, to account for hunger, thirst, etc. For simplicity, one may assume that the same environment produces the same sensory representations. Thus, its sensors may be said to be &lt;em&gt;functional&lt;/em&gt; (as in &lt;a class="link" href="https://www.reddit.com/r/explainlikeimfive/comments/1cq60cn/eli5_what_is_functional_programming_and_how_is_it/" target="_blank" rel="noopener"
+&gt;functional programming&lt;/a&gt;). If we allowed sensors to be non-functional in characteristic, it seems possible to attribute the entire process of cognition to sensors alone (citation needed). Such a sensory representation may also have a temporal component.&lt;/p&gt;
+&lt;p&gt;Such a sensory representation $S$ only lasts very briefly (citations on classic sensory memory experiments). It must be &lt;em&gt;transformed&lt;/em&gt; into a conceptual representation $C_S$ for it to be available in the long run. The conceptual representation in turn may depend on an earlier conceptual structure, so we label the conceptual representation with a timestamp $t$: $C_{S,t}$. Doing so devoids the conceptual representation from a temporal component.&lt;/p&gt;
+&lt;p&gt;It is ubiquitous that episodic (layman speak: contextual) and semantic (layman speak: context-free) memories are two aspects of our experience. How do these two aspects arise?&lt;/p&gt;
+&lt;p&gt;A conceptual representation $C$ is a structure built out of concepts available from an existing concept-database $\mathcal C$. The structure may be atomic or compound. The concept databases includes atomic-concepts (nouns) as well as relation-concepts (adjectives, verbs, prepositions) to describe or combine existing structures into new compound structures. This raises several questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What are atomic-concepts? Or what determines whether some concept is atomic?&lt;/li&gt;
+&lt;li&gt;How are relation-concepts created?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The concept database also allows us to compute the probability $P(C' | \mathcal C_{S,t}, S)$ of new conceptual structure $C'$ given the current concept-database $\mathcal C$, the current conceptual representation $C_{S,t}$, and sensory representation $S$. I use probability for convenience, but it could be any other measure of uncertainty.&lt;/p&gt;
+&lt;p&gt;To answer the questions, we require postulating two concept-learning processes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first process $\mathcal P_{\text{atomic}}$ can make new atomic concepts out of sensory representations. An atomic concept $C'$ is characterized by &lt;em&gt;traces&lt;/em&gt; of sensory representations that were used to make the concept, as well as some conditional probabilities $P(C' | \mathcal C_{S,t}, S)$. What exact conditional probabilities are involved might be an open question. Perhaps they correspond to the concepts $C_{S,t}$ used to &lt;em&gt;predict&lt;/em&gt; this new concept $C&amp;rsquo;$? Additionally, what do I mean by &lt;em&gt;traces&lt;/em&gt;?&lt;/li&gt;
+&lt;li&gt;The second process $\mathcal P_{\text{relational}}$ can make new relational concepts out of sensory representations as well as existing concepts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stating this also partly answers question 2: A concept is atomic if it depends solely on sensory representations. A concept is relational if it depends on both sensory representations or other concepts. But this raises yet another question: what do I mean here by &lt;em&gt;depend on&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Semantic Memory is identical to the concept database $\mathcal C$.&lt;/p&gt;
+&lt;p&gt;We say that a concept is &lt;em&gt;active&lt;/em&gt; if it is a part of the current conceptual representation $C_{S,t}$.&lt;/p&gt;
+&lt;p&gt;Episodic Memory works as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The organisms cognitive system produces a sequence of conceptual representations $(C_1, &amp;hellip;, C_t)$ from the sucessive sensory representations its sensors produce. In a well-functioning organism, the production of such a sequence also creates a &lt;em&gt;sequence&lt;/em&gt; of &lt;em&gt;activations&lt;/em&gt; corresponding to different concepts. This sequence of activations is recorded by some cognitive-subsystem (perhaps hippocampus?).&lt;/li&gt;
+&lt;li&gt;During recall, this sequence of activations is replayed back by the cognitive-subsystem that had recorded the activations. Because recall involves relations to concepts that are earlier or later in the sequence, episodic memory is conceptual.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Open questions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What exactly do I mean by &lt;em&gt;depend&lt;/em&gt;?&lt;/li&gt;
+&lt;li&gt;How exactly do the concept-generating processes operate? This needs to be specified in (much) more detail.&lt;/li&gt;
+&lt;li&gt;What do I mean by &lt;em&gt;traces&lt;/em&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And finally, what predictions does this make?&lt;/p&gt;
+&lt;p&gt;Of course, comparison with existing literature is an open task on its own.&lt;/p&gt;</description></item><item><title>Resume and CV Templates</title><link>https://digikar99.github.io/microblog/p/resume-cv/</link><pubDate>Fri, 31 Oct 2025 13:00:08 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/resume-cv/</guid><description>&lt;p&gt;A while ago, I had run up into an amazing reddit thread on resumes and CV template, suggestions and discussions. Here it is:&lt;/p&gt;
+&lt;center&gt;
+&lt;a class="link" href="https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/"&gt;https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;It has pretty much kept being updated for the last&amp;hellip; 8 years(!)&lt;/p&gt;</description></item><item><title>Taking Consumerism out of Halloween to make it Sustainable</title><link>https://digikar99.github.io/microblog/p/halloween-2025/</link><pubDate>Fri, 31 Oct 2025 09:03:55 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/halloween-2025/</guid><description>&lt;p&gt;Today is yet another day humans will celebrate something with one-off products. Not bothering what happens to the products after they are used.&lt;/p&gt;
+&lt;p&gt;They go the waste, right? Or may be you recycle them? And then, they &lt;em&gt;eventually&lt;/em&gt; go to the waste, right? Right.&lt;/p&gt;
+&lt;p&gt;Did you you know that the &lt;a class="link" href="https://www.theguardian.com/environment/2020/dec/09/human-made-materials-now-outweigh-earths-entire-biomass-study" target="_blank" rel="noopener"
+&gt;amount of plastic is greater than all land animals and marine animals combined&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;Well, plastic has become unavoidable. Yet, we can reduce single-purpose plastics as far as possible.&lt;/p&gt;
+&lt;center&gt;
+But how do I celebrate without dressing up?
+&lt;/center&gt;
+&lt;p&gt;This raises two questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How was Halloween celebrated historically?&lt;/li&gt;
+&lt;li&gt;Can I still do a kinda-modern celebration without creating waste?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The first is an interesting question. A quick read at &lt;a class="link" href="https://en.wikipedia.org/wiki/Halloween" target="_blank" rel="noopener"
+&gt;wikipedia&lt;/a&gt; tells us &lt;em&gt;&amp;ldquo;Wearing costumes and playing pranks at Halloween did not spread to England until the 20th century.&amp;rdquo;&lt;/em&gt; Roughly, consumerism is a very recent century or two old phenomena compared to the human history of several thousand years. &lt;a class="link" href="https://animalarchaeology.com/2018/10/31/terror-and-tradition-over-time-a-look-at-the-material-culture-of-halloween/" target="_blank" rel="noopener"
+&gt;This&lt;/a&gt; might be a nice read.&lt;/p&gt;
+&lt;p&gt;I still don&amp;rsquo;t know what exactly a &lt;em&gt;traditional Halloween celebration&lt;/em&gt; looks like? I&amp;rsquo;m told I should visit rural or semi-urban areas of Europe to find out.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s some nice &lt;a class="link" href="https://www.wastemanaged.co.uk/our-news/halloween/halloween-waste/" target="_blank" rel="noopener"
+&gt;waste statistics on Modern Halloween&lt;/a&gt; by WasteManaged.&lt;/p&gt;
+&lt;p&gt;As for the second question, there are plenty of guides once you start searching, for example, &lt;a class="link" href="https://www.forbes.com/sites/monicasanders/2025/10/27/5-ways-to-have-a-sustainable-spooky-season/" target="_blank" rel="noopener"
+&gt;this article by Forbes&lt;/a&gt;.&lt;/p&gt;
+&lt;center&gt;
+&lt;em&gt;Wish you all the best to a guilt-free celebration!&lt;/em&gt;
+&lt;/center&gt;
+&lt;p&gt;PS: If you created waste this year, that&amp;rsquo;s something to keep in mind for the upcoming celebrations! Be it Christmas, New Year, or the next Halloween! Or any other festivals you celebrate!&lt;/p&gt;</description></item><item><title>Documentation is Troublesome</title><link>https://digikar99.github.io/microblog/p/documentation/</link><pubDate>Thu, 30 Oct 2025 15:39:12 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/documentation/</guid><description>&lt;p&gt;About two months ago, I decided to design a programming language with Python/Julia-like syntax that transpiled to Common Lisp. I called it &lt;a class="link" href="https://moonli-lang.github.io/" target="_blank" rel="noopener"
+&gt;Moonli&lt;/a&gt;. It took about a month of reading, tinkering and thinking to play nice with the extensibility of Lisps. That was very challenging and rewarding. It&amp;rsquo;s usable now.&lt;/p&gt;
+&lt;p&gt;But the hardest &amp;ndash; most boring &amp;ndash; part has been documentation. I intend the language to cater to people who are new to programming, or at least to Lisps. There have been excellent books on Lisps in general as well as Common Lisp in particular. However, many of them prevent free modification. There are some Common Lisp resources such as &lt;a class="link" href="https://lispcookbook.github.io/cl-cookbook/" target="_blank" rel="noopener"
+&gt;The Cookbook&lt;/a&gt; that permit reuse, but unfortunately, to me, these do not feel suitable for a beginner. I had originally intended to rely on &lt;a class="link" href="https://allendowney.github.io/ThinkPython/" target="_blank" rel="noopener"
+&gt;ThinkPython&lt;/a&gt;, but it quickly turned out that Lisp concepts can be fairly distant from Python*. Talk of the ideas of image-based development, REPL, symbols, seemed fairly distant (non-existent) in Python-land. Without these concepts, one is essentially throwing the Lisp baby out with the bath water.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m evaluating my options:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hire someone: How much am I willing to pay? How familiar will they be with Lisp concepts?&lt;/li&gt;
+&lt;li&gt;Post on lisp community: This feels like being lazy. On the other hand, it is true that after a certain point of time, writing code feels easier that explaining code. At least that&amp;rsquo;s true of me. An ideal documentor needs to be someone who actively enjoys &lt;em&gt;explaining&lt;/em&gt; code &amp;ndash; and writing down the explanations.&lt;/li&gt;
+&lt;li&gt;Do it myself: I&amp;rsquo;m currently on this option, at least until I get a first draft. This will probably be slow. Yet, as long as I remain consistent at 6ish hours per week, I get 300 hours a year and 1500 hours over the course of 5 years. That&amp;rsquo;s a lot of time.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Of course, if you wanted to start with Moonli, you can simply open up the Lisp REPL, load Moonli, and dig around and tinker until things start making sense to you. That&amp;rsquo;s how Lisp Hackers operate :).&lt;/p&gt;
+&lt;p&gt;However, documentation has been a drag on life in general. Active thinking generates a &lt;em&gt;lot&lt;/em&gt; of thoughts. Connections from one topic to another, new ideas to try out the topics, multiple &lt;em&gt;aspects&lt;/em&gt; of the same topic linking to different topics in different ways. Often times, I end up leaving them as annotations in pdf files. The worries are two-fold:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;If I haven&amp;rsquo;t documented my thoughts, what even was the use of thinking actively?&lt;/li&gt;
+&lt;li&gt;If I document my thoughts, they at least need to be interpretable, and this slows down reading a lot.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;More so, it is fun to think at the edges. It is fun to make something that was difficult to conceptualize into something that is easier to conceptualize &lt;em&gt;for myself&lt;/em&gt;. However, the real &lt;em&gt;output&lt;/em&gt; of thinking lies in whether those conceptualizations make any sense &lt;em&gt;to others&lt;/em&gt;. But even after conceptualization, there is a step of explication that involves making those vague intuition-based concepts more precise, ideally precise enough for implementation as a computer program. Without this, I&amp;rsquo;m just cooking up stories or playing word-salad with no grounding. This is cumbersome.&lt;/p&gt;
+&lt;p&gt;Summarized differently, knowledge may be divided into:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You know you know and have documented it for others to know.&lt;/li&gt;
+&lt;li&gt;You know you know.&lt;/li&gt;
+&lt;li&gt;You know you don&amp;rsquo;t know but you can figure it out.&lt;/li&gt;
+&lt;li&gt;You know you don&amp;rsquo;t know how to figure it out, but can figure out how to figure it out.&lt;/li&gt;
+&lt;li&gt;You know you don&amp;rsquo;t know nor how to figure out how to figure it out.&lt;/li&gt;
+&lt;li&gt;You don&amp;rsquo;t know.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I can&amp;rsquo;t have any stances on what I don&amp;rsquo;t know, so 6 is out of discussion. 5 is what I enjoy, but 1 is where things pay off.&lt;/p&gt;
+&lt;p&gt;*If anything, the use of Lisp concepts is one of the primary motivations to develop Moonli instead of using Python or Julia.&lt;/p&gt;</description></item><item><title>Advice for (Psychology) Graduate Students</title><link>https://digikar99.github.io/microblog/p/graduate-advice/</link><pubDate>Fri, 24 Oct 2025 08:45:32 +0200</pubDate><guid>https://digikar99.github.io/microblog/p/graduate-advice/</guid><description>&lt;p&gt;I recently received an email from one of my professors titled &lt;em&gt;Some non-obvious advice for psych graduate students&lt;/em&gt;. I wanted to share it publicly, but found no obvious public links in the email that was forwarded from one of Substack&amp;rsquo;s mailing list. Though, after inspecting the url for Varun Shennoy&amp;rsquo;s substack &lt;code&gt;varunshenoy.substack.com&lt;/code&gt; this morning, the critical part seemed to be obtaining some &lt;em&gt;username&lt;/em&gt;, and then the website should be at &lt;code&gt;&amp;lt;username&amp;gt;.substack.com&lt;/code&gt;. And there it was &lt;code&gt;paulbloom.substack.com&lt;/code&gt; that I could share publicly. Enough Meta!&lt;/p&gt;
+&lt;p&gt;If you are a psychology graduate student (or perhaps even a postdoctoral researcher or someone in their early career), definitely check it out!&lt;/p&gt;
+&lt;center&gt;
+&lt;a class="link" href="https://smallpotatoes.paulbloom.net/p/some-non-obvious-advice-for-psych"&gt;
+Some non-obvious advice for psych graduate students
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;Another of Paul Bloom&amp;rsquo;s post I liked and can suggest reading is&lt;/p&gt;
+&lt;center&gt;
+&lt;a class="link" href="https://smallpotatoes.paulbloom.net/p/the-only-interdisciplinary-conversations"&gt;
+The only interdisciplinary conversations worth having
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;To be honest, that&amp;rsquo;s a strong take. I think from an interdisciplinary research perspective, it still makes sense. However, I also think there&amp;rsquo;s more to interdisciplinary research. I should share an article I had found another day; it&amp;rsquo;s a tangential topic on philosophy of interdisciplinary research rather than advice for graduate school.&lt;/p&gt;
+&lt;p&gt;Coming back to graduate school advice, I had come across a book last year. I suspect it was this, but it could be different. It is slighly hefty at 400+ pages, but given that they are plain english rather than academic jargon, it should be an easy read over lunch hours or a weekend or two. Goodreads reviewers rate it quite highly.&lt;/p&gt;
+&lt;center&gt;
+&lt;a class="link" href="https://www.goodreads.com/book/show/52579211-a-field-guide-to-grad-school"&gt;
+A Field Guide to Grad School: Uncovering the Hidden Curriculum
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;Good luck!&lt;/p&gt;</description></item><item><title>Hallaoumi and Paneer</title><link>https://digikar99.github.io/microblog/p/halloumi/</link><pubDate>Fri, 24 Oct 2025 08:16:47 +0200</pubDate><guid>https://digikar99.github.io/microblog/p/halloumi/</guid><description>&lt;p&gt;Yesterday, I had a burger that reminded me of &lt;a class="link" href="https://en.wikipedia.org/wiki/Paneer" target="_blank" rel="noopener"
+&gt;Indian Paneer&lt;/a&gt;. Indian Paneer is inturn different from &lt;a class="link" href="https://en.wikipedia.org/wiki/Beyaz_peynir" target="_blank" rel="noopener"
+&gt;Turkish Peynir&lt;/a&gt; as I learnt from another friend. Upon checking the ingredients, this something in the Burger turned out to be &lt;a class="link" href="https://en.wikipedia.org/wiki/Halloumi" target="_blank" rel="noopener"
+&gt;Halloumi&lt;/a&gt; with an origin in Cyprus.&lt;/p&gt;
+&lt;p&gt;Though, I might be gravely mistaken to think Halloumi is in anyway similar to Paneer given &lt;a class="link" href="https://www.reddit.com/r/vegetarian/comments/t9gwbg/paneer_vs_halloumi/" target="_blank" rel="noopener"
+&gt;this reddit post&lt;/a&gt; 😶‍🌫️&lt;/p&gt;</description></item><item><title>Extra extra protein and supplements!</title><link>https://digikar99.github.io/microblog/p/protein-supplement-safety/</link><pubDate>Thu, 23 Oct 2025 23:19:35 +0200</pubDate><guid>https://digikar99.github.io/microblog/p/protein-supplement-safety/</guid><description>&lt;p&gt;Some months ago, a friend recommended me the &lt;a class="link" href="https://www.youtube.com/@Viva-Longevity" target="_blank" rel="noopener"
+&gt;Viva Longevity&lt;/a&gt; channel, and I occasionally watch it during brunch and dinner times.&lt;/p&gt;
+&lt;p&gt;One particular video was about &lt;a class="link" href="https://www.youtube.com/watch?v=3LDe3k6lyac" target="_blank" rel="noopener"
+&gt;protein obsession&lt;/a&gt;. I came across &lt;a class="link" href="https://www.cbc.ca/news/health/lead-protein-powders-shakes-9.6941833" target="_blank" rel="noopener"
+&gt;another article by CBC Canada&lt;/a&gt; on a similar topic today.&lt;/p&gt;
+&lt;p&gt;Essentially, if I recall correctly, at least in US (and Canada too), &lt;em&gt;extra protein&lt;/em&gt; products (and &lt;a class="link" href="https://www.youtube.com/watch?v=G8LG0OY3Izs" target="_blank" rel="noopener"
+&gt;supplements too&lt;/a&gt;!) are not regulated as well as medicines. That means, they arrive in the market without the stringent safety standards that medicines are subject to. They may be taken off the market in retrospect &lt;em&gt;once they are proven unsafe&lt;/em&gt;. From the company&amp;rsquo;s perspective, this allows them to make profits against the health hazards they put up consumers against. This forms yet another example of crony-capitalism.&lt;/p&gt;
+&lt;p&gt;Certainly, consume a healthy balanced diet focusing on unprocessed or minimally processed food. Think twice about supplements or other products sourced from industrial non-natural origins. When necessary, consult your doctors.&lt;/p&gt;</description></item><item><title>Don't major in Computer Science!</title><link>https://digikar99.github.io/microblog/p/no-computer-science/</link><pubDate>Thu, 23 Oct 2025 23:09:57 +0200</pubDate><guid>https://digikar99.github.io/microblog/p/no-computer-science/</guid><description>&lt;p&gt;From time to time, I regret majoring in computer science and not something heavier in mathematics. Today was one such day 🥲. It remains one of the biggest regrets of my life. Alas, what is done is done. Grass is always greener on the other side.&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://varunshenoy.substack.com/p/dont-major-in-computer-science" target="_blank" rel="noopener"
+&gt;This post by Varun Shenoy&lt;/a&gt; sums it quite well. If you are young, and have an option, choose anything but computer science. And particularly, don&amp;rsquo;t go into computer science in order to learn programming. Programming is the bread and butter of 21st century, but this means it is a fundamental skill&amp;hellip; like english. You don&amp;rsquo;t become excited just because you know english. You need other skills, english is just a medium of communication (with other english-speakers). You need other skills, programming is just a means of communication (with the computer).&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t also go into computer science in order to pursue higher studies in computer science. The research part of computer science can be fairly heavy in mathematics, so I&amp;rsquo;m biased to say that an applied-math major would be better. Of course, you can start an undergraduation in computer science and fill it up with mathematics heavy topics, but why not acquire a proper mathematics background in the first place then.&lt;/p&gt;</description></item><item><title>Static Site Microblogging</title><link>https://digikar99.github.io/microblog/p/microblogging/</link><pubDate>Thu, 23 Oct 2025 22:45:15 +0200</pubDate><guid>https://digikar99.github.io/microblog/p/microblogging/</guid><description>&lt;p&gt;Over the last year or so, I have been sending whatsapp status updates fairly frequently. A friend recently asked me if something changed with me over the years 😆*. Well, I have no idea! But come to think of it, there was a time I used to post updates on facebook. Somehow, facebook has mostly subsided to the background over the years. There still exists a friend or two there, but most have moved to whatsapp.&lt;/p&gt;
+&lt;p&gt;The issue with whatsapp status updates is they stay only for about 24 hours. Well, my status updates are less about the feels &amp;ndash; well, they are about the feels and music too &amp;ndash; but I also end up sharing (possibly?) informative youtube videos or news or anything interesting I find on the web. I myself sometimes find the need to refer back to something but only to have lost it. Essentially, status updates to me are a form of public diary that can often times be worth revisiting.&lt;/p&gt;
+&lt;p&gt;Somehow I haven&amp;rsquo;t been able to integrate twitter or linkedin updates in my day to day life. LinkedIn is anyways not suitable for all updates. There is the Fediverse, but &lt;a class="link" href="https://www.reddit.com/r/RedditAlternatives/comments/1l51zqo/separating_forumscontentscommunityservers_from/" target="_blank" rel="noopener"
+&gt;I think it needs a separation between community-servers and user-authentication-servers&lt;/a&gt;. Without it, it feels a inexorably fragmented and not worth the effort to me. Instagram is image centric, while my content is not. Threads is nice, but I&amp;rsquo;m learning it doesn&amp;rsquo;t play nice with users who only have Instagram installed. There there are other small and large platforms, but who knows if they will still be there in another decade. Wordpress is okay for long-form content, but it is still &lt;em&gt;very&lt;/em&gt; clunky.&lt;/p&gt;
+&lt;p&gt;As a last resort, this is an attempt at static site based microblogging. I write my posts in a simple text editor, commit and push the changes to github, and they are converted to the site that you see. This is all powered by Hugo, in particular, the &lt;a class="link" href="https://stack.jimmycai.com/" target="_blank" rel="noopener"
+&gt;Hugo Theme Stack&lt;/a&gt; designed by Jimmy Cai and supported by a 100+ contributors(!). In recent years, I&amp;rsquo;m definitely falling in love with hugo! If you have a website whose primary purpose is to perform one-way information dissemination from you to your audience, with no requirements for you to collect audience data, handle their logins and all, definitely check out Hugo and its wide collection of &lt;a class="link" href="https://themes.gohugo.io/themes/" target="_blank" rel="noopener"
+&gt;themes&lt;/a&gt;. The installation and maintenance is remarkably smooth!&lt;/p&gt;
+&lt;p&gt;The idea of using a text editor to make a simple post is fairly unappealing, so I&amp;rsquo;d be interested in seeing how this plays out for me. But the current theme has a ton of options. Particularly, tagging, since my content can be fairly disarrayed. So, you can simply click on the tags to see if there is something that interests you. And let&amp;rsquo;s see how this plays out.&lt;/p&gt;
+&lt;p&gt;* &lt;em&gt;I just discovered, that &lt;a class="link" href="https://en.wikipedia.org/wiki/Emacs" target="_blank" rel="noopener"
+&gt;emacs&lt;/a&gt; has an &lt;code&gt;M-x emoji-insert&lt;/code&gt; command that has a tooon of options 😱!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;** Well, this turned out to be long. But I promise, future posts will be short 🙃&lt;/p&gt;</description></item><item><title>Archives</title><link>https://digikar99.github.io/microblog/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://digikar99.github.io/microblog/archives/</guid><description/></item><item><title>Links</title><link>https://digikar99.github.io/microblog/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://digikar99.github.io/microblog/links/</guid><description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;links&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.com&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;- &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;description&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;website&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;image&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;</description></item><item><title>Search</title><link>https://digikar99.github.io/microblog/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://digikar99.github.io/microblog/search/</guid><description/></item></channel></rss>
