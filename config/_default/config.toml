@@ -15,4 +15,4 @@ hasCJKLanguage = false
 disqusShortname = "digikar99-microblog"
 
 [pagination]
-pagerSize = 5
+pagerSize = 10
