@@ -1,0 +1,28 @@
+---
+title: Classrooms, Questions, and Learning in India vs Europe
+slug: selfstudy-handholding
+date: 2025-11-29 20:44:15+0100
+tags:
+    - career
+    - academia
+---
+
+If you were schooled up in India (or other Asian countries too), you'd have unconsciously caught up the habit of staying silent in class. You might stay silent because you do not know or understand something, or for the fear of being labelled dumb, or for wanting to avoid feeling ashamed. Or you might remain silent because you understand it and do not want to attract attention. Some can be attention seekers. Some grow out of attention seeking. Some start to despise the special treatment and they too grow up to be silent*. And there could be other reasons. A fair few would also be fortunate enough to be exposed to discussion-oriented classes during schooling itself. India has a culture that shares deep respect for teachers or gurus. Unfortunately, the respect is also often replaced by fear.
+
+The median Indian student spends 10-12 years or more fearing teachers, or simply staying silent even without being fearful. Even if the student is now admitted to premier colleges in India, where many professors encourage discussions and class participation, it is hard to not remain silent. Conveniently progressing in such college requires participation. If you do not understand, you are expected to ask. The ones who ask, seek help and communicate, progress further than you. This continues through the rest of the undergraduate years. The ones fortunate enough to attend these premier undergraduate colleges, where professors encourage class participation and question asking, end up in a better position in terms of communication in graduate school life. But these students constitute single digit percentage of the student population.
+
+The median Indian student, however, spends another 3-4 years in an undergraduate program learning to stay silent. Even when the student is admitted to the graduate programs of premier colleges, they end up having to spend half their stay trying to unlearn the stay-silent habit, if that is meaningfully-possible at this stage of life at all.
+
+Over the past year, I have been fortunate to start my doctoral studies in Europe. One stark contrast compared to my graduate studies in India -- which itself was at a premier institute -- is the ease with which everyone asks questions. Many prefix their questions with "May be this is dumb (or silly)..." but they ask. They ask while the topic is still being discussed. But they ask. Ask they do. It doesn't matter if you are a first year graduate student. Or a senior professor attending an emeritus' professor's lecture. Everyone asks questions. Indeed, people do modulate their questions in terms of whether they are clarifications, minor or serious objections, or tangential, but the question asking and discussion environment is prevalent.
+
+Another factor that discourages question asking in Indian schools includes "homework" -- The student is expected to ask questions only after putting in the "required" work. If one asks questions without putting in the "required" work, they may be shunned by the teacher. Even if not shunned upon, there is a serious culture that "mistakes are *bad*", "you should never do mistakes", "asking questions is shameful". This carried itself into the graduate school environment I experienced in India. It is indeed true that the amount of readings in graduate school keep increasing. In courses by some professors, they are outright impossible. Some expect an exposure, some expect a thorough reading, others expect somewhere in between. However, contrast the lack of question-asking with my experience here: students are shameless about asking questions, they are fearless about admitting they haven't done their readings, they are truthful in acknowledging their weaknesses. The professors too reply in kind -- there's no shunning of the student, there's simply an answering that tries to clear the concept or point to the student without placing any judgment on the student.
+
+There are further implications of this "don't ask questions" attitude especially when it comes to interdisciplinary collaboration. Interdisciplinary collaboration requires you to collaborate with someone whose background you can only acquire after years if not decades of hard work. This is impractical. The only other way is to admit your ignorance. Be open to learning. Be open to asking. Be open to asking dumb questions. Be open to feeling confused. Similarly, you too need to be open to the other person asking questions that seem nonsensical or dumb to you. Be empathetic towards them. Be understanding towards them. Be answering towards them without shunning.
+
+Acknowledge the situation, assume positive intentions, take a deep breath, and continue communication.
+
+I do not have an easy fix to the problem. Yet this contrast in discussion and question asking is something I have witnessed firsthand. If you happen notice yourself feeling ashamed, fearful, or any other negative emotion in classroom settings, despite having access to humble professors who are ready to answer any question, hopefully, this post will help you become more mindful of it, and be more open to asking questions, admitting your ignorance and learning more.
+
+I have indeed had the chance to witness great question askers and communicators, both in India and Europe. It isn't beyond anyone. But it definitely requires an attitude shift in most of us. Happy asking! Happy Learning!
+
+*Of course, why a particular student or individual is more silent than others has multiple context-dependent reasons. On a different note, why a class might remain silent also has another set of reasons.
