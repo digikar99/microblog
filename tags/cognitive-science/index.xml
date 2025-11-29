@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cognitive-Science on digikar's microblog</title><link>https://digikar99.github.io/microblog/tags/cognitive-science/</link><description>Recent content in Cognitive-Science on digikar's microblog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 29 Nov 2025 17:48:47 +0100</lastBuildDate><atom:link href="https://digikar99.github.io/microblog/tags/cognitive-science/index.xml" rel="self" type="application/rss+xml"/><item><title>3-year Undergraduate Program in Computation and Behavioral Sciences</title><link>https://digikar99.github.io/microblog/p/teachyourselfcogsci/</link><pubDate>Sat, 29 Nov 2025 17:48:47 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/teachyourselfcogsci/</guid><description>&lt;p&gt;If you have ever discussed Cognitive Science with me for extended periods of time, then you&amp;rsquo;d know that I have often lamented about the need for a 10 year cognitive science &amp;ldquo;pre-graduate&amp;rdquo; program. However true it may be that acquiring relevant knowledge from all the different subdisciplines of Cognitive Science &amp;ndash; Psychology, Computer Science, Neuroscience, Philosophy, Linguistics, and Anthropology &amp;ndash; takes a long amount of time, such a program would be impractical for at least two main reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Impracticality of long-term planning:&lt;/strong&gt; To be employable by mid-20s at the latest requires starting by the age of 14 or 16. No sane person in this age group commits to a program so long, that too, with questionable financial or employment utility, especially in the 21st century.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inclination towards financially-wise choices:&lt;/strong&gt; It cannot be denied that everyone is trying to find a way or two to earn money by doing activities that aren&amp;rsquo;t so unpleasurable. In particular, people usually choose undergraduate (or even graduate) programs by the extent of their financial utility they generate. That&amp;rsquo;s not to say interests have no role. But given two things that look equally enticing in non-monetary terms, one is inclined to choose one that yields them better money.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Time and again, almost all the (senior) researchers I have come across in the field of Cognitive Science over the last 4 years have expressed that mathematical maturity goes a long way in any field of research including Cognitive Science. Interestingly, a related skill concerning programming is also an immensely useful skill in the 21st century in terms of its financial utility. Putting these two together, it seems that it might actually be possible to propose a standard 3- or 4-year undergraduate program that has both utilities (i) financial/employment (ii) research/higher-studies.&lt;/p&gt;
+&lt;p&gt;As a doctoral student of Cognitive Science, I still lack any background in Linguistics, Neuroscience, or Anthropology. Whatever little I might have gained through occasional exposure is lost through time. So, I wouldn&amp;rsquo;t be able to suggest any specific resources for these disciplines. However, it seems by labeling the program as &amp;ldquo;Computation &lt;em&gt;and&lt;/em&gt; Behavioral Sciences&amp;rdquo;, I have already split the curriculum into two parts. Thus, anyone with a sufficient exposure from these other disciplines might be able to suggest the appropriate changes to the second part to come up with a corresponding &amp;ldquo;Computation and XYZ&amp;rdquo;. In fact, &lt;a class="link" href="https://catalog.mit.edu/degree-charts/computation-cognition-6-9/" target="_blank" rel="noopener"
+&gt;MIT itself has a curriculum focusing on Neuroscience&lt;/a&gt;. My own preference for the curriculum comes from my exposure to &lt;a class="link" href="https://www.cgs.iitk.ac.in/MS_Program_CourseWork.php" target="_blank" rel="noopener"
+&gt;Cognitive Science at IIT Kanpur&lt;/a&gt; and &lt;a class="link" href="https://cognitivescience.ceu.edu/curriculum-and-schedules" target="_blank" rel="noopener"
+&gt;CEU&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Semester&lt;/th&gt;
+&lt;th&gt;Computation&lt;/th&gt;
+&lt;th&gt;Behavior&lt;/th&gt;
+&lt;th&gt;Miscellaneous&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1.0&lt;/td&gt;
+&lt;td&gt;Number Systems&lt;/td&gt;
+&lt;td&gt;Introduction to Behavioral Science&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Mathematical Logic&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.1&lt;/td&gt;
+&lt;td&gt;Coordinate Geometry&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1.2&lt;/td&gt;
+&lt;td&gt;Sets, Relations, Functions&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Probabilty Theory and Statistics&lt;/td&gt;
+&lt;td&gt;Hypothesis Testing and Frequentist Methods&lt;/td&gt;
+&lt;td&gt;Philosophy of Science&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Single-variable Calculus&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Introduction to Programming&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Multivariate Calculus&lt;/td&gt;
+&lt;td&gt;Bayesian Statistics&lt;/td&gt;
+&lt;td&gt;Philosophy of Mind&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Paradigms of Programming&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Linear Algebra&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Data Structures&lt;/td&gt;
+&lt;td&gt;Basic Experimental Methods&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Discrete Structures I&lt;/td&gt;
+&lt;td&gt;Classical Cognitive Science&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Practical Programming&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Databases&lt;/td&gt;
+&lt;td&gt;Embodied, Extended, Enacted Cognition&lt;/td&gt;
+&lt;td&gt;Formal Philosophy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Discrete Structures II&lt;/td&gt;
+&lt;td&gt;&amp;lt;Elective I&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Machine Learning&lt;/td&gt;
+&lt;td&gt;Computational Modeling&lt;/td&gt;
+&lt;td&gt;Non-Classical Logic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;Elective II&amp;gt;&lt;/td&gt;
+&lt;td&gt;&amp;lt;Elective III&amp;gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The nice thing about the above is even if one drops out by year 1 or year 2, they would already be familiar with numerous topics that are part of the computer science curriculum or its prerequisites. As &lt;a class="link" href="https://teachyourselfcs.com/" target="_blank" rel="noopener"
+&gt;teachyourselfcs.com&lt;/a&gt; says: &lt;em&gt;There are 2 types of software engineer: those who understand computer science well enough to do challenging, innovative work, and those who just get by because they’re familiar with a few high level tools.&lt;/em&gt; The courses listed above are motivated for the later kinds of programmers.&lt;/p&gt;
+&lt;p&gt;One objection to this curriculum can be that this is too heavily focused on Computer Science and Mathematics. The reasons are two-fold: Firstly, because many students opting for Behavioral Science due to a spite with Mathematics. Unfortunately, Mathematics comes back to bite people during their Graduate Studies, if not eventually in life. Secondly, an exposure to Data Structures, Discrete Structures, and Databases serves to provide more examples of &amp;ldquo;structures that the mind might use for computation&amp;rdquo;, thus helping the student and the eventual researcher keep an &amp;ldquo;open mind&amp;rdquo; once out of college.&lt;/p&gt;</description></item><item><title>Some issues with Probabilities and Bayesianism for Unified Models of Cognition or Artificial General Intelligence</title><link>https://digikar99.github.io/microblog/p/prob-issues/</link><pubDate>Fri, 14 Nov 2025 13:49:34 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/prob-issues/</guid><description>&lt;p&gt;Bayesian Methods provide a reasonable model of updating Probabilities of Beliefs in the face of upcoming information. Taken as a framework theory (unfalsifiable) of cognition or intelligence for a particular task, these can be pretty good for providing a precise null theory to compare cognition against (citation needed). Similarly, it also provides a good alternative to the Frequentist approaches to statistical inference.&lt;/p&gt;
+&lt;p&gt;However, it becomes problematic when it starts being used as a model of unified cognition or general intelligence.&lt;/p&gt;
+&lt;p&gt;Wikipedia provides the motivation for &lt;a class="link" href="https://en.wikipedia.org/wiki/Probability_theory" target="_blank" rel="noopener"
+&gt;Probability Theory&lt;/a&gt; as:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Probability is a way of assigning every &amp;ldquo;event&amp;rdquo; a value between zero and one, with the requirement that the event made up of all possible results (in our example, the event {1,2,3,4,5,6}) be assigned a value of one. To qualify as a probability distribution, the assignment of values must satisfy the requirement that if you look at a collection of mutually exclusive events (events that contain no common results, e.g., the events {1,6}, {3}, and {2,4} are all mutually exclusive), the probability that any of these events occurs is given by the sum of the probabilities of the events.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This already presents several issues:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You require a well-specified set. There&amp;rsquo;s no specification how to assign probability to a new event that is outside the set.&lt;/li&gt;
+&lt;li&gt;Probabilities should be kept consistent with each other, respecting &lt;a class="link" href="https://en.wikipedia.org/wiki/Probability_axioms" target="_blank" rel="noopener"
+&gt;its axioms&lt;/a&gt;. Not doing so leads to &lt;a class="link" href="https://en.wikipedia.org/wiki/Dutch_book_theorems#Dutch_books" target="_blank" rel="noopener"
+&gt;Dutch books&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The uncertainties quantified by probabilities are relative uncertainties rather than absolute ones. This relates to the first point. &lt;a class="link" href="https://digikar99.github.io/microblog/p/nars-prob-nov-2025/" target="_blank" rel="noopener"
+&gt;I have argued about this before.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;When one tries to quantify the uncertainty of all beliefs by probabilities, and tries to remain consistent, this can require updation across a wide range of beliefs. This can be computationally expensive. It is also dissimilar to humans who seem to be able to hold mutually contradictory beliefs (as long as they are &amp;ldquo;far apart&amp;rdquo; in reasoning chains).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To actually state the resulting unified model of cognition or general intelligence rigorously, one needs to specify what the probabilities are &lt;em&gt;of&lt;/em&gt;, that is, what are the elements of the set? I have seen zero discussion of this in Cognitive Science. Fortunately, there is a relevant entry in the &lt;a class="link" href="https://plato.stanford.edu/entries/logic-probability/" target="_blank" rel="noopener"
+&gt;Stanford Encyclopaedia of Philosophy&lt;/a&gt; that discusses Modal Probability Logics and First-order Probability Logic.&lt;/p&gt;
+&lt;p&gt;Classical mathematical (first-order) logic has several issues. Chapter 1 of Pei Wang&amp;rsquo;s book on &lt;a class="link" href="https://www.worldscientific.com/worldscibooks/10.1142/8665#t=aboutBook" target="_blank" rel="noopener"
+&gt;Non-Axiomatic Logic&lt;/a&gt; discusses these. Several of them remain even after mixing probabilities and first order logics:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The truth-value itself may be dependent on assumptions. Thus, a change of assumptions (which a unified model of cognition must be able to handle) can necessitate revision of truth-values.&lt;/li&gt;
+&lt;li&gt;Reasoning involves induction, abduction, analogy, and other types of inference beyond deduction itself.&lt;/li&gt;
+&lt;li&gt;Classical logic leads to logically correct but intuitively problematic inferences. See &lt;a class="link" href="https://en.wikipedia.org/wiki/Paradoxes_of_material_implication" target="_blank" rel="noopener"
+&gt;Paradoxes of Material Implication&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There is talk on how bayesian updates provides revision. There is work on how hierarchical bayesian models can be used for induction, abduction, etc. There is work on incorporating causality into probabilities. Intuitively, until they are fully specified, that is, as good as a mathematical theory, they are simply models of cognition with unspecified assumptions in the researchers&amp;rsquo; heads. They are not yet unified models of cognition that can be implemented in a machine to yield artificial general intelligence. Concretely, I still do not grasp the arguments.&lt;/p&gt;
+&lt;p&gt;Is there an alternative? There are already &lt;a class="link" href="https://en.wikipedia.org/wiki/Outline_of_logic#Branches_of_logic" target="_blank" rel="noopener"
+&gt;many branches of logic&lt;/a&gt;. There&amp;rsquo;s also a book written by Graham Priest on &lt;a class="link" href="https://en.wikipedia.org/wiki/An_Introduction_to_Non-Classical_Logic" target="_blank" rel="noopener"
+&gt;Non-Classical Logic&lt;/a&gt;. And finally, the one that introduced me to these issues is Pei Wang&amp;rsquo;s work on &lt;a class="link" href="https://www.worldscientific.com/worldscibooks/10.1142/8665#t=aboutBook" target="_blank" rel="noopener"
+&gt;Non-Axiomatic Logic&lt;/a&gt; that tries to draw upon several non-classical logics at once.&lt;/p&gt;</description></item><item><title>Software Development as simultaneous Prediction and Explanation</title><link>https://digikar99.github.io/microblog/p/software-explanation/</link><pubDate>Wed, 05 Nov 2025 19:34:01 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/software-explanation/</guid><description>&lt;p&gt;There is often the talk that prediction and explanation can be opposed to each other. Simple models aid explanability but may hinder prediction. Complex models aid prediction but may hinder explanability. Or so the story goes in my understanding.&lt;/p&gt;
+&lt;p&gt;However, consider software development. Particularly of large softwares. Take &lt;a class="link" href="https://interestingengineering.com/lists/whats-the-biggest-software-package-by-lines-of-code" target="_blank" rel="noopener"
+&gt;this&lt;/a&gt; for example.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google has 2 billion&lt;/li&gt;
+&lt;li&gt;Mac OS has 80 million&lt;/li&gt;
+&lt;li&gt;Microsoft Office has 40 million&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Perhaps, no Googler understands all of Google&amp;rsquo;s codebase, no Mac OS core-developer understands all of Mac OS, no developer of Microsoft Office understands all of Microsoft Office. Yet it is true that these are more-or-less reliable products produced by humans. It is true that individual humans fix bugs or add features to these behemoths.&lt;/p&gt;
+&lt;p&gt;It is true that individual humans &lt;em&gt;do not understand&lt;/em&gt; these softwares in their entirety. However, an individual human &lt;em&gt;can understand&lt;/em&gt; different &lt;em&gt;aspects&lt;/em&gt; of the software once they put their mind to it. The task of combining the different &lt;em&gt;aspects&lt;/em&gt; into an interactable whole is left to the computer. Most well-maintained softwares have &lt;em&gt;potential understandability&lt;/em&gt; even if they are not &lt;em&gt;understandable&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In a similar manner, scientific explanations too can use the computer to construct &lt;em&gt;potentially understandable&lt;/em&gt; models without giving up on complexity. Taking inspiration from software development, one can build complex scientific models that may be &lt;em&gt;non-understandable&lt;/em&gt; but be &lt;em&gt;potentially understanable&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Of course, the task of coming up with a language to &lt;em&gt;program scientific explanation&lt;/em&gt; might be a lifetime of work in itself. Though, see &lt;a class="link" href="https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Classical_Mechanics" target="_blank" rel="noopener"
+&gt;Structure and Interpretation of Classical Mechanics&lt;/a&gt;. (Might be unrelated &amp;ndash; I haven&amp;rsquo;t &lt;a class="link" href="https://groups.csail.mit.edu/mac/users/gjs/6946/sicm-html/" target="_blank" rel="noopener"
+&gt;read&lt;/a&gt; it!)&lt;/p&gt;</description></item><item><title>A non-equivalence between Non-Axiomatic Logic and Probability Theory (Nov. 2025)</title><link>https://digikar99.github.io/microblog/p/nars-prob-nov-2025/</link><pubDate>Wed, 05 Nov 2025 18:32:41 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/nars-prob-nov-2025/</guid><description>&lt;p&gt;People have beliefs about the world*. The beliefs have uncertainties. How do we characterize or represent these uncertainties?&lt;/p&gt;
+&lt;p&gt;In both the (computational) cognitive and computational sciences, beliefs are often represented as a parameter value $\theta = \theta_0$. The truth value of the belief may be true or false characterized by a scalar value $P(\theta = \theta_0)$, called the probability of the belief. The spread of the probability distribution $P(\theta)$ (often the standard deviation $\sigma$) gives us the uncertainty of the belief.&lt;/p&gt;
+&lt;p&gt;However, note that this uncertainty is characterized in the context of a belief space, that is, the set $\mathit S$ of values of $\theta$. The uncertainty then is with respect to other beliefs $\theta_0' \neq \theta_0$.&lt;/p&gt;
+&lt;p&gt;The &lt;a class="link" href="https://link.springer.com/book/10.1007/1-4020-5045-3" target="_blank" rel="noopener"
+&gt;non-axiomatic logic framework&lt;/a&gt; by &lt;a class="link" href="https://cis.temple.edu/~pwang/" target="_blank" rel="noopener"
+&gt;Pei Wang&lt;/a&gt; et al. instead characterize the truth-value of the belief by a two-length tuple $(f,c)$, the &lt;em&gt;frequency&lt;/em&gt; and the &lt;em&gt;confidence&lt;/em&gt; respectively. This allows us to characterize beliefs independently of each other. The different beliefs may later be compared against each other.&lt;/p&gt;
+&lt;p&gt;Contrast the two situations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;10 coin tosses with 8 heads&lt;/li&gt;
+&lt;li&gt;1000 coin tosses with 800 heads&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It is true that the bias of the coin in the second situation may be judged as being less uncertain than the first. Probability theory explains it as the two probability distributions same mean but different variations. Non-axiomatic logic explains it as two beliefs having the same frequency but different confidence.&lt;/p&gt;
+&lt;p&gt;For the class of situations involving coin tosses, it is also the case that different values of $\theta$ are mutually exclusive. It is this mutual exclusivity that allows the use of Probability theory to model belief updates. In cases where mutual exclusivity fails, Probability theory becomes misapplied. NAL can take-over in those situations with contradictory beliefs.&lt;/p&gt;
+&lt;p&gt;However, events can always be modeled so that they are mutually exclusive. To talk about the uncertainty of a particular belief $\theta = \theta_0$ independent of other beliefs $\theta = \theta_0'$ requires assigning each belief to its individual probability distribution. &lt;del&gt;Often this could be a normal distribution $\sout{\mathit N(\theta, \sigma)}$ characterized by a mean $\sout{\theta}$ and standard deviation $\sout{\sigma}$.&lt;/del&gt; However, this implies that the set of mutually exclusive alternatives is $\mathit S: \{\theta = \theta_0', \theta \neq \theta_0'\}$ and likewise for each value of $\theta$. Each of the two elements of the set can then obtain a probability independent of other values of $\theta$. But, this does not allow us to represent what might be considered the &lt;em&gt;uncertainty&lt;/em&gt; in probability.&lt;/p&gt;
+&lt;p&gt;Even besides this non-equivalence, the two frameworks diverge a fair bit. Pei Wang has also talked about &lt;a class="link" href="https://arxiv.org/pdf/1303.1517" target="_blank" rel="noopener"
+&gt;Belief Revision in Probability Theory&lt;/a&gt; discussing other issues with probabilities. I remain failed to grasp anything beyond intuitive ideas, perhaps, lacking a background in philosophy and history of probality theory or my own peculiarities. While Non-axiomatic Logic has seen a lot of development, it remains true that the research developments in Probability Theory has been humongous.&lt;/p&gt;
+&lt;p&gt;*Or if you are a Cognitive Semanticist like Gardenfors, I&amp;rsquo;d restate as: these are beliefs about represented features of the world.&lt;/p&gt;</description></item><item><title>Memory (Oct. 2025)</title><link>https://digikar99.github.io/microblog/p/memory-oct-2025/</link><pubDate>Fri, 31 Oct 2025 13:00:08 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/memory-oct-2025/</guid><description>&lt;p&gt;How humans learn and store information and knowledge has been interesting to me. Although not enough to pursue a doctoral research on it. Although, it is also the case that I was advised not to silo myself into a &amp;ldquo;topic of cognition&amp;rdquo; but rather to start from an intriguing phenomenon and let that phenomenon guide my investigation. I think I like that advice.&lt;/p&gt;
+&lt;p&gt;So, how do I think human learning and memory work? Here&amp;rsquo;s an attempt.&lt;/p&gt;
+&lt;p&gt;Given an organism in an environment, the organism&amp;rsquo;s sensors make (transduce) sensory representations $S$ from the environment. This could involve electromagnetic radiation such as light, or vibrations such as by sound or ultrasound, or tactile such as by touch, or something more exotic. The environment may be external to the organism or it could be internal, to account for hunger, thirst, etc. For simplicity, one may assume that the same environment produces the same sensory representations. Thus, its sensors may be said to be &lt;em&gt;functional&lt;/em&gt; (as in &lt;a class="link" href="https://www.reddit.com/r/explainlikeimfive/comments/1cq60cn/eli5_what_is_functional_programming_and_how_is_it/" target="_blank" rel="noopener"
+&gt;functional programming&lt;/a&gt;). If we allowed sensors to be non-functional in characteristic, it seems possible to attribute the entire process of cognition to sensors alone (citation needed). Such a sensory representation may also have a temporal component.&lt;/p&gt;
+&lt;p&gt;Such a sensory representation $S$ only lasts very briefly (citations on classic sensory memory experiments). It must be &lt;em&gt;transformed&lt;/em&gt; into a conceptual representation $C_S$ for it to be available in the long run. The conceptual representation in turn may depend on an earlier conceptual structure, so we label the conceptual representation with a timestamp $t$: $C_{S,t}$. Doing so devoids the conceptual representation from a temporal component.&lt;/p&gt;
+&lt;p&gt;It is ubiquitous that episodic (layman speak: contextual) and semantic (layman speak: context-free) memories are two aspects of our experience. How do these two aspects arise?&lt;/p&gt;
+&lt;p&gt;A conceptual representation $C$ is a structure built out of concepts available from an existing concept-database $\mathcal C$. The structure may be atomic or compound. The concept databases includes atomic-concepts (nouns) as well as relation-concepts (adjectives, verbs, prepositions) to describe or combine existing structures into new compound structures. This raises several questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What are atomic-concepts? Or what determines whether some concept is atomic?&lt;/li&gt;
+&lt;li&gt;How are relation-concepts created?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The concept database also allows us to compute the probability $P(C' | \mathcal C_{S,t}, S)$ of new conceptual structure $C'$ given the current concept-database $\mathcal C$, the current conceptual representation $C_{S,t}$, and sensory representation $S$. I use probability for convenience, but it could be any other measure of uncertainty.&lt;/p&gt;
+&lt;p&gt;To answer the questions, we require postulating two concept-learning processes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first process $\mathcal P_{\text{atomic}}$ can make new atomic concepts out of sensory representations. An atomic concept $C'$ is characterized by &lt;em&gt;traces&lt;/em&gt; of sensory representations that were used to make the concept, as well as some conditional probabilities $P(C' | \mathcal C_{S,t}, S)$. What exact conditional probabilities are involved might be an open question. Perhaps they correspond to the concepts $C_{S,t}$ used to &lt;em&gt;predict&lt;/em&gt; this new concept $C&amp;rsquo;$? Additionally, what do I mean by &lt;em&gt;traces&lt;/em&gt;?&lt;/li&gt;
+&lt;li&gt;The second process $\mathcal P_{\text{relational}}$ can make new relational concepts out of sensory representations as well as existing concepts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stating this also partly answers question 2: A concept is atomic if it depends solely on sensory representations. A concept is relational if it depends on both sensory representations or other concepts. But this raises yet another question: what do I mean here by &lt;em&gt;depend on&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;Semantic Memory is identical to the concept database $\mathcal C$.&lt;/p&gt;
+&lt;p&gt;We say that a concept is &lt;em&gt;active&lt;/em&gt; if it is a part of the current conceptual representation $C_{S,t}$.&lt;/p&gt;
+&lt;p&gt;Episodic Memory works as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The organisms cognitive system produces a sequence of conceptual representations $(C_1, &amp;hellip;, C_t)$ from the sucessive sensory representations its sensors produce. In a well-functioning organism, the production of such a sequence also creates a &lt;em&gt;sequence&lt;/em&gt; of &lt;em&gt;activations&lt;/em&gt; corresponding to different concepts. This sequence of activations is recorded by some cognitive-subsystem (perhaps hippocampus?).&lt;/li&gt;
+&lt;li&gt;During recall, this sequence of activations is replayed back by the cognitive-subsystem that had recorded the activations. Because recall involves relations to concepts that are earlier or later in the sequence, episodic memory is conceptual.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Open questions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What exactly do I mean by &lt;em&gt;depend&lt;/em&gt;?&lt;/li&gt;
+&lt;li&gt;How exactly do the concept-generating processes operate? This needs to be specified in (much) more detail.&lt;/li&gt;
+&lt;li&gt;What do I mean by &lt;em&gt;traces&lt;/em&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And finally, what predictions does this make?&lt;/p&gt;
+&lt;p&gt;Of course, comparison with existing literature is an open task on its own.&lt;/p&gt;</description></item><item><title>Advice for (Psychology) Graduate Students</title><link>https://digikar99.github.io/microblog/p/graduate-advice/</link><pubDate>Fri, 24 Oct 2025 08:45:32 +0200</pubDate><guid>https://digikar99.github.io/microblog/p/graduate-advice/</guid><description>&lt;p&gt;I recently received an email from one of my professors titled &lt;em&gt;Some non-obvious advice for psych graduate students&lt;/em&gt;. I wanted to share it publicly, but found no obvious public links in the email that was forwarded from one of Substack&amp;rsquo;s mailing list. Though, after inspecting the url for Varun Shennoy&amp;rsquo;s substack &lt;code&gt;varunshenoy.substack.com&lt;/code&gt; this morning, the critical part seemed to be obtaining some &lt;em&gt;username&lt;/em&gt;, and then the website should be at &lt;code&gt;&amp;lt;username&amp;gt;.substack.com&lt;/code&gt;. And there it was &lt;code&gt;paulbloom.substack.com&lt;/code&gt; that I could share publicly. Enough Meta!&lt;/p&gt;
+&lt;p&gt;If you are a psychology graduate student (or perhaps even a postdoctoral researcher or someone in their early career), definitely check it out!&lt;/p&gt;
+&lt;center&gt;
+&lt;a class="link" href="https://smallpotatoes.paulbloom.net/p/some-non-obvious-advice-for-psych"&gt;
+Some non-obvious advice for psych graduate students
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;Another of Paul Bloom&amp;rsquo;s post I liked and can suggest reading is&lt;/p&gt;
+&lt;center&gt;
+&lt;a class="link" href="https://smallpotatoes.paulbloom.net/p/the-only-interdisciplinary-conversations"&gt;
+The only interdisciplinary conversations worth having
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;To be honest, that&amp;rsquo;s a strong take. I think from an interdisciplinary research perspective, it still makes sense. However, I also think there&amp;rsquo;s more to interdisciplinary research. I should share an article I had found another day; it&amp;rsquo;s a tangential topic on philosophy of interdisciplinary research rather than advice for graduate school.&lt;/p&gt;
+&lt;p&gt;Coming back to graduate school advice, I had come across a book last year. I suspect it was this, but it could be different. It is slighly hefty at 400+ pages, but given that they are plain english rather than academic jargon, it should be an easy read over lunch hours or a weekend or two. Goodreads reviewers rate it quite highly.&lt;/p&gt;
+&lt;center&gt;
+&lt;a class="link" href="https://www.goodreads.com/book/show/52579211-a-field-guide-to-grad-school"&gt;
+A Field Guide to Grad School: Uncovering the Hidden Curriculum
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;Good luck!&lt;/p&gt;</description></item></channel></rss>
