@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lisp on digikar's microblog</title><link>https://digikar99.github.io/microblog/tags/lisp/</link><description>Recent content in Lisp on digikar's microblog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 30 Oct 2025 15:39:12 +0100</lastBuildDate><atom:link href="https://digikar99.github.io/microblog/tags/lisp/index.xml" rel="self" type="application/rss+xml"/><item><title>Documentation is Troublesome</title><link>https://digikar99.github.io/microblog/p/documentation/</link><pubDate>Thu, 30 Oct 2025 15:39:12 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/documentation/</guid><description>&lt;p&gt;About two months ago, I decided to design a programming language with Python/Julia-like syntax that transpiled to Common Lisp. I called it &lt;a class="link" href="https://moonli-lang.github.io/" target="_blank" rel="noopener"
+&gt;Moonli&lt;/a&gt;. It took about a month of reading, tinkering and thinking to play nice with the extensibility of Lisps. That was very challenging and rewarding. It&amp;rsquo;s usable now.&lt;/p&gt;
+&lt;p&gt;But the hardest &amp;ndash; most boring &amp;ndash; part has been documentation. I intend the language to cater to people who are new to programming, or at least to Lisps. There have been excellent books on Lisps in general as well as Common Lisp in particular. However, many of them prevent free modification. There are some Common Lisp resources such as &lt;a class="link" href="https://lispcookbook.github.io/cl-cookbook/" target="_blank" rel="noopener"
+&gt;The Cookbook&lt;/a&gt; that permit reuse, but unfortunately, to me, these do not feel suitable for a beginner. I had originally intended to rely on &lt;a class="link" href="https://allendowney.github.io/ThinkPython/" target="_blank" rel="noopener"
+&gt;ThinkPython&lt;/a&gt;, but it quickly turned out that Lisp concepts can be fairly distant from Python*. Talk of the ideas of image-based development, REPL, symbols, seemed fairly distant (non-existent) in Python-land. Without these concepts, one is essentially throwing the Lisp baby out with the bath water.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m evaluating my options:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hire someone: How much am I willing to pay? How familiar will they be with Lisp concepts?&lt;/li&gt;
+&lt;li&gt;Post on lisp community: This feels like being lazy. On the other hand, it is true that after a certain point of time, writing code feels easier that explaining code. At least that&amp;rsquo;s true of me. An ideal documentor needs to be someone who actively enjoys &lt;em&gt;explaining&lt;/em&gt; code &amp;ndash; and writing down the explanations.&lt;/li&gt;
+&lt;li&gt;Do it myself: I&amp;rsquo;m currently on this option, at least until I get a first draft. This will probably be slow. Yet, as long as I remain consistent at 6ish hours per week, I get 300 hours a year and 1500 hours over the course of 5 years. That&amp;rsquo;s a lot of time.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Of course, if you wanted to start with Moonli, you can simply open up the Lisp REPL, load Moonli, and dig around and tinker until things start making sense to you. That&amp;rsquo;s how Lisp Hackers operate :).&lt;/p&gt;
+&lt;p&gt;However, documentation has been a drag on life in general. Active thinking generates a &lt;em&gt;lot&lt;/em&gt; of thoughts. Connections from one topic to another, new ideas to try out the topics, multiple &lt;em&gt;aspects&lt;/em&gt; of the same topic linking to different topics in different ways. Often times, I end up leaving them as annotations in pdf files. The worries are two-fold:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;If I haven&amp;rsquo;t documented my thoughts, what even was the use of thinking actively?&lt;/li&gt;
+&lt;li&gt;If I document my thoughts, they at least need to be interpretable, and this slows down reading a lot.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;More so, it is fun to think at the edges. It is fun to make something that was difficult to conceptualize into something that is easier to conceptualize &lt;em&gt;for myself&lt;/em&gt;. However, the real &lt;em&gt;output&lt;/em&gt; of thinking lies in whether those conceptualizations make any sense &lt;em&gt;to others&lt;/em&gt;. But even after conceptualization, there is a step of explication that involves making those vague intuition-based concepts more precise, ideally precise enough for implementation as a computer program. Without this, I&amp;rsquo;m just cooking up stories or playing word-salad with no grounding. This is cumbersome.&lt;/p&gt;
+&lt;p&gt;Summarized differently, knowledge may be divided into:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You know you know and have documented it for others to know.&lt;/li&gt;
+&lt;li&gt;You know you know.&lt;/li&gt;
+&lt;li&gt;You know you don&amp;rsquo;t know but you can figure it out.&lt;/li&gt;
+&lt;li&gt;You know you don&amp;rsquo;t know how to figure it out, but can figure out how to figure it out.&lt;/li&gt;
+&lt;li&gt;You know you don&amp;rsquo;t know nor how to figure out how to figure it out.&lt;/li&gt;
+&lt;li&gt;You don&amp;rsquo;t know.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I can&amp;rsquo;t have any stances on what I don&amp;rsquo;t know, so 6 is out of discussion. 5 is what I enjoy, but 1 is where things pay off.&lt;/p&gt;
+&lt;p&gt;*If anything, the use of Lisp concepts is one of the primary motivations to develop Moonli instead of using Python or Julia.&lt;/p&gt;</description></item></channel></rss>
