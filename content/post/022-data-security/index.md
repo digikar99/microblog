@@ -2,7 +2,6 @@
 title: The role of Open Source and Data Privacy for Security
 slug: data-security
 date: 2026-01-13 18:08:32+0100
-math: true
 tags:
     - life
     - software
