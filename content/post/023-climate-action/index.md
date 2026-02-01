@@ -10,9 +10,9 @@ tags:
 
 *What can I do to reduce climate change?*
 
-If you are a resident of the 21st century, still under 60, rich enough that you do not need to worry about the cost of your next meal, and have any sense of obligation towards the society at large, that question might have crossed your mind. Perhaps, it even keeps you awake at night. Climate anxiety is a thing. (I wrote about it before -- [here's something that may help](../020-climate-anxiety-dec-2025/index.md).)
+If you are a resident of the 21st century, still under 60, rich enough that you do not need to worry about the cost of your next meal, and have any sense of obligation towards the society at large, that question might have crossed your mind. Perhaps, it even keeps you awake at night. Climate anxiety is a thing. (I wrote about it before -- [here's something that may help](../climate-anxiety-dec-2025/).)
 
-Perhaps, you have even been successful in converting your worries into concrete actions. You consume less meat, avoid flights, buy products that say that are environment-friendly, or even better, avoid buying anything unnecessary at all. Perhaps you converted your house into solar. You try to cut down your carbon footprint as much as possible. And even motivate others to do the same. You hope that some day, majority of humanity will follow suite and opt for an environment friendly lifestyle. And, perhaps then, the climate crisis will be averted, right? Right?
+Perhaps, you have even been successful in converting your worries into concrete actions. You consume less meat, avoid flights, buy products that say that are environment-friendly, or even better, avoid buying anything unnecessary at all. Perhaps you converted your house into solar. You try to cut down your carbon footprint as much as possible. And even motivate others to do the same. You hope that some day, majority of humanity will follow suit and opt for an environment friendly lifestyle. And, perhaps then, the climate crisis will be averted, right? Right?
 
 .
 
