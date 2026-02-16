@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on digikar's microblog</title><link>https://digikar99.github.io/microblog/tags/linux/</link><description>Recent content in Linux on digikar's microblog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 Feb 2026 21:46:40 +0100</lastBuildDate><atom:link href="https://digikar99.github.io/microblog/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>4 months in MacOS - A Visceral Dislike of Computing</title><link>https://digikar99.github.io/microblog/p/macos-dislike/</link><pubDate>Mon, 16 Feb 2026 21:46:40 +0100</pubDate><guid>https://digikar99.github.io/microblog/p/macos-dislike/</guid><description>&lt;p&gt;&lt;em&gt;This is a rant. So, in case you are looking for something useful, you can close the page.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;These years in Apple Hardware have been interesting. The M-series chips are remarkable - &lt;del&gt;good&lt;/del&gt; amazing battery life, performance, and cooling. Put on Power-Saving mode, and you can breeze through a work day despite zoom calls, and even two work days if you do not stream video (calls).&lt;/p&gt;
+&lt;p&gt;I have been using MacOS for over four months now. It works with a single track workflow. But for some reason, I developed a visceral dislike for computing. I no longer wanted to touch my macbook once I was back home after the work day (= university).&lt;/p&gt;
+&lt;p&gt;I also own another laptop - Thinkpad with KDE Plasma. The past month, I began frequenting it more. And suddenly, I was regaining the joy I had lost. I &lt;em&gt;looked forward to using my laptop even after the work day&lt;/em&gt;. I could sleep myself to it if I no obligations the next day or was reminded that its battery was about to end.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s true I&amp;rsquo;ve been using KDE for a few years. Before that, I was an XFCE4 fan for half a decade. It is also true the KDE is on a Thinkpad. But I have used Windows for a decade before that. So, mere familiarity cannot explain this &lt;em&gt;visceral dislike for computing&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;On both KDE (and XFCE4 before that), my workflow has spanned 5, 6, 7 or even 8 desktops, spanning different areas of life - 2-3 desktops for different courses, projects or university activities, another 1-2 for my random programming activities, another 2 for lisp-related projects, and another one for &amp;ldquo;miscellaneous&amp;rdquo;. I have them all in the corner of my screen. When the context switches, I glance at the corner of my screen and switch. The desktops and application switchers are pretty customizable, and allow you to isolate windowed applications on one desktop from another. But the icing on the cake, multiple instances of the applications behave very nicely. Opening any application again creates a new instance (usually), no matter if there was an instance on another desktop. This aids further isolation of context.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://digikar99.github.io/microblog/p/macos-dislike/kde.png"
+width="1920"
+height="1080"
+srcset="https://digikar99.github.io/microblog/p/macos-dislike/kde_hu_4ea0444206c93e5f.png 480w, https://digikar99.github.io/microblog/p/macos-dislike/kde_hu_28cb2230e061d3e6.png 1024w"
+loading="lazy"
+alt="My KDE Plasma Desktop at the moment I was writing this"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Contrast this with MacOS. One needs more than a glance to even check what space (=desktop) I am in and what other spaces I can switch to. It&amp;rsquo;s a multi-finger swipe, and then one more to return back to the application I was working in. MacOS (and other dumbed-down operating systems including Android and iOS) hate multiple instances of apps. Opening an application again from another desktop will greet you with an invisible window, from which you can figure out if you are in the same app as before because the app did not open for some reason or the invisible window or, perhaps, the app is slightly heavy and still in the process of being opened. There are certainly ways to open&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://digikar99.github.io/microblog/p/macos-dislike/macos.png"
+width="1175"
+height="765"
+srcset="https://digikar99.github.io/microblog/p/macos-dislike/macos_hu_fe1891751e154629.png 480w, https://digikar99.github.io/microblog/p/macos-dislike/macos_hu_57a38825944b78a7.png 1024w"
+loading="lazy"
+alt="My MacOS Desktop at the moment I was writing this"
+class="gallery-image"
+data-flex-grow="153"
+data-flex-basis="368px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Will I &lt;em&gt;ever&lt;/em&gt; get over this visceral dislike for MacOS? Perhaps, when KDE comes to it. But if the single vs multi-instance apps is a source for my dislike, then nothing short of a MacOS restructuring perhaps.&lt;/p&gt;
+&lt;p&gt;Will more affordable Thinkpads &lt;em&gt;ever&lt;/em&gt; get longer battery lives? I am more betting my hopes on this. Hopefully, in a few years, long-battery life T-series Thinkpads (or X-series, a human can dream :&amp;rsquo;)) will become affordable that I will just grab an awesome deal some day :).&lt;/p&gt;
+&lt;p&gt;I myself am not sure what drives my dislike. But, at this point, I don&amp;rsquo;t think the reason is &amp;ldquo;you just have to get used to it&amp;rdquo;.&lt;/p&gt;</description></item></channel></rss>
