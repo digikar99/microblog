@@ -38,9 +38,11 @@ I don't need to write repetitive emails often. And it is also acceptable (and pr
 
 I think there are better tools for spelling and grammar than general purpose LLMs. (Looks at [Grammarly](https://www.grammarly.com/).) I still think it is better than nothing to ask them to review short sections of your work. Again, take their answers with skepticism. As you learn more about different kinds of writing, you will discover new rules of thumbs to keep in mind.
 
-I use AI to generate code templates as well as for "function" finding: Quick, *How do I remove whitespaces from the end of a string in Python? In Javascript? In Common Lisp?* 
+I use AI to generate code templates as well as for "function finding": Quick, *How do I remove whitespaces from the end of a string in Python? In Javascript? In Common Lisp?* 
 
 Based on examples I see in the wild (eg. [this in Julia](https://www.reddit.com/r/Julia/comments/1p4i7yd/building_standalone_julia_binaries_a_complete/), [the above in Python]([posts](https://www.bugsink.com/blog/copilot-induced-crash/)), [this in Common Lisp](https://www.reddit.com/r/Common_Lisp/comments/1qtwd45/comment/o37p1lx/), I don't trust AI to generate good code. And no, it is not a matter of giving [more](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20state%3Aopen%20does%20not%20follow%20instructions) [specific instructions](https://github.com/google-gemini/gemini-cli/issues?q=is%3Aissue%20state%3Aopen%20does%20not%20follow%20instructions) -- it is an open issue that coding agents do not obey your instructions. Perhaps, because they do not have any notion of an "instruction" at all. All they are generating is plausible looking text given the context. Additionally, writing code is not the hard part. Reading, understanding, maintaining, and writing code that is easy to read, understand and maintain is hard. Better to do it on your own than read through someone's shit.
+
+The developer of Claude Code -- Anthropic itself -- highlights that [the benefits from AI might be just about 10% even while the impact on understanding and skill formation can be larger](https://www.anthropic.com/research/AI-assistance-coding-skills).
 
 That said, given some possibilities highlighted above, I have also been experimenting with [ollama](https://ollama.com/) and [llama.cpp](https://github.com/ggml-org/llama.cpp). I thought I wasn't ever going to need more than 32GB RAM. Boy, I am wrong, I'm going to need 64GB RAM, particularly with modern chips coming with powerful GPUs and NPUs.
 
