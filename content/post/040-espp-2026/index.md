@@ -1,7 +1,7 @@
 ---
 title: ESPP Conference 2026
 slug: espp-2026
-date: 2026-07-08 21:31:42+0200
+date: 2026-07-08 21:43:36+0200
 tags:
     - conference
     - cognitive-science
@@ -10,6 +10,10 @@ tags:
 The past week I had the opportunity to attend the [ESPP Conference 2026](https://espp2026.sites.uu.nl/). This one is by European Society for Philosophy and Psychology.
 
 As someone who has half-jokingly been called a philosopher on different occasions, it was a very neat experience. And while I hate philosophizing without a practical purpose (ironic, isn't it? such is my life), the conference was great. I enjoy philosophy being used to guide practical action and, since I'm a cognitive-science researcher in-training, I also enjoy philosophy being used to guide research in psychology and cognition. The conference was a mix of sparsity and density. The mornings were light, the afternoons packed, but still plenty of time for lunch in the middle. The timetable and abstracts are available from [this page](https://espp2026.sites.uu.nl/programme-draft/).
+
+The conference itself was held in Boothstraat Church in Utrecht.
+
+<img src="boothstraat-church.jpg"></img>
 
 As a memoir, and perhaps, as a future note, here are some of my personal highlights:
 
@@ -141,5 +145,9 @@ The afternoon of the third day I was met with a slight headache, and decided to 
 
     <a href="https://www.pbs.org/video/these-birds-will-solve-puzzles-for-snacks-yga9ke/" target="_blank"><img src="birds-multiaccess.jpg"></img></a>
 
+
+Perhaps, the best part of attending the conference was I got to enjoy some very good dahi puri, it's been a rarity outside Pune.
+
+<center><img src="dahi-puri.jpg" height="480" width="360"></img></center>
 
 I guess I'll leave you at that! Have a nice day, or night :).
