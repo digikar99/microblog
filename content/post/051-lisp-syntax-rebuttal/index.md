@@ -46,6 +46,8 @@ Now that doesn't look too bad?
 
 In fact, the infamous editor, emacs, has a [paren-face-mode](https://github.com/tarsius/paren-face) extension (plugin) that allows you to hide or dim the parenthesis. I'll leave it to emacs haters and vs code lovers to find an equivalent mode for themselves.
 
+EDIT: There are actually [several alternatives to lisp syntax](https://github.com/shaunlebron/history-of-lisp-parens/blob/master/alt-syntax.md) proposed over the years, without compromising too much on homoicononicity. It should be doable to develop editor extensions to switch back and forth between some of them, or also transpile to and from them. Personally, I'd rather read lisp, C, or python rather than most of these alternatives. Still, I feel [Dylan](https://opendylan.org/) is a sane one. [Wisp](https://srfi.schemers.org/srfi-119/srfi-119.html) is also interesting. Also [sweet expressions](https://srfi.schemers.org/srfi-110/srfi-110.html). I myself have [Moonli](https://moonli.github.io/).
+
 ## Hardware acceleration in human perception -- it is adaptive
 
 To see how someone can go from seeing `(` and `)))` to *ignoring them*, you must realize that the human mind-brain is an incredibly adaptive organ! For example, when you first start learning a new language -- be it your first, or second, or third -- be it a human/natural language or a programming language -- you'd pay attention to bits that you no longer pay attention to once you are familiar.
@@ -150,7 +152,7 @@ Not lispers perhaps.
 
 ### Closing parentheses
 
-Again, no body is counting parenthesis. So, you might just as well:
+Again, no body is counting parentheses. So, you might just as well:
 
 ```scheme
 f (g (h (i (j))
@@ -163,11 +165,11 @@ f (g (h (i (j))
       * n (factorial (- n 1)
 ```
 
-## Mental Stack -- I don't use it to count parenthesis
+## Mental Stack -- I don't use it to count parentheses
 
 ### Visual Nesting
 
-Did I say no lisper is counting parenthesis?
+Did I say no lisper is counting parentheses?
 
 Also, I don't know about Scheme, but at least in Common Lisp, you won't find this. No one piles parentheses at the start of the list.
 
@@ -195,7 +197,7 @@ as
 ((curry function) aap noot mies wim zus jet teun)
 ```
 
-I'm not a functional programmer myself, so I don't really understand the magic happening underneath this. To me, higher level functions do seem to pose a load on working memory, but functional programmers should tell me I am thinking of them wrongly. But, nesting parenthesis and keeping up with parenthesis is not something lispers do with their limited working memory.
+I'm not a functional programmer myself, so I don't really understand the magic happening underneath this. To me, higher level functions do seem to pose a load on working memory, but functional programmers should tell me I am thinking of them wrongly. But, tracking the nesting-depth of parentheses is not something lispers do with their limited working memory.
 
 ### Reading Order
 
@@ -271,15 +273,21 @@ It's reindented in accordance with its environment!
 
 So, besides macros, I think parentheses help our editors indent our code, which we humans can then use to infer its structure. Working with parenthesized blocks maintains that structure.
 
+> EDIT: I'm glossing over a lot of editing possibilities offered by parentheses: through modes like [paredit](https://paredit.org/), [lispy](https://github.com/abo-abo/lispy) and [smartparens-strict-mode](https://smartparens.readthedocs.io/en/latest/).
+>
+> ![paredit-convolute.gif](paredit-convolute.gif)
+>
+> All these are ultimately just superpowered ways to do Cut/Paste. Whether these are worth learning, I do not know. But parentheses make them easy to implement. There are many more examples at [The Animated Guide to Paredit](http://danmidwood.com/content/2014/11/21/animated-paredit.html).
+
 Can you do this in other languages? Well, if you backtrack to the beginning of the block, rather that the opening parenthesis, you might. But it's kludgy without having access to the language parser. Which is actually available these days.
 
-So, how should you use parentheses in your next language? If you want to prioritize editing experience, you might need to use them in a manner similar to lisps. Or may be clojure if you want some variety. Perhaps you can also provide a way to hide or dim the parenthesis for those who aren't accustommed to it.
+So, how should you use parentheses in your next language? If you want to prioritize editing experience, you might need to use them in a manner similar to lisps. Or may be clojure if you want some variety. Perhaps you can also provide a way to hide or dim the parentheses for those who aren't accustommed to it. You can also use the language parser itself, but probably that makes your language a lisp ;).
 
 ## Conclusion
 
 The human mind-brain is incredibly flexible. It definitely has the capacity to learn new human and programming languages. So, don't limit yourself.
 
-Whether or not lisp is worth the investment is up to you. It probably won't lead to better jobs. It probably won't pay your bills. It won't solve the climate crisis.
+Whether or not lisp is worth learning is up to you. It probably won't lead to better jobs. It probably won't pay your bills. It won't solve the climate crisis.
 
 It can be fun. It can be molded for your task$^{TnC}$. It might open you to the possibility to view programming tools ultimately as code that write code. And then, why not just have one sane language that helps you write it?
 
