@@ -4,8 +4,7 @@ slug: data-security
 date: 2026-01-13 18:08:32+0100
 tags:
     - life
-    - software
-    - open-source
+    - computing
 ---
 
 Internet has been amazing. You send a message. And it reaches the other end of the Earth in seconds. Even more, you can communicate with live video and audio! It seems magical.

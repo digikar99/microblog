@@ -3,10 +3,7 @@ title: 4 months in MacOS - A Visceral Dislike of Computing
 slug: macos-dislike
 date: 2026-02-16 21:46:40+0100
 tags:
-    - macos
-    - operating-systems
-    - linux
-    - KDE
+    - computing
 ---
 
 *This is a rant. So, in case you are looking for something useful, you can close the page.*

@@ -5,6 +5,7 @@ slug: lisp-syntax-rebuttal
 date: 2026-09-30 00:22:43+0200
 math: true
 tags:
+    - computing
     - lisp
 ---
 

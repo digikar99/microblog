@@ -5,7 +5,7 @@ date: 2026-02-17 00:28:43+0100
 tags:
     - artificial-intelligence
     - productivity
-    - software
+    - computing
 ---
 
 Over the past few days, I have been asked the "How do I use AI?" question a few times. So, here's an attempt at a common answer along with a few potential FAQs.

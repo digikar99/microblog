@@ -3,7 +3,7 @@ title: "Nostr: The next step to decentralized social media"
 slug: nostr
 date: 2026-07-18 18:25:34+0200
 tags:
-    - open-source
+    - computing
 ---
 
 In 2005, Huffman and Ohanian got together and launched what they called the ["front page of the internet"](https://www.britannica.com/money/Reddit). Here, users could post the best articles from news outlets, journals, or even images and just text posts with each other, upvote what they liked and help others find good content. This platform was called [Reddit](https://www.reddit.com/). In 2026, [reddit is still the 8th most popular website on the entire internet](https://en.wikipedia.org/wiki/List_of_most-visited_websites) even more popular than WhatsApp(!)

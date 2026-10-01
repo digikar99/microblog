@@ -3,9 +3,7 @@ title: Performance Comparison of Stan on Intel 228V vs Apple Air M4
 slug: stan-performance-m4-228v
 date: 2026-08-28 20:09:09+0200
 tags:
-    - open-source
-    - software
-    - laptops
+    - computing
 ---
 
 Apple Silicon is definitely impressive in benchmarks. For real world tasks, however, they recommend running testing against real applications. Now, I'm not running any rigorous tests. Just some informal tests and eye-balling the times.

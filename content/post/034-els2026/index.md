@@ -5,7 +5,7 @@ date: 2026-05-13 22:19:42+0200
 tags:
     - personal
     - lisp
-    - programming
+    - computing
 ---
 
 May 11-12, 2026. I had the chance to attend the European Lisp Symposium 2026. This was the 19th conference in its series on the Lisp family of programming languages.
