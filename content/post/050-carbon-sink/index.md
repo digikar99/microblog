@@ -1,11 +1,11 @@
 ---
-title: "Sinking Carbon: Obtaining net-negative by veganism and wood burial"
+title: "Sinking Carbon: Achieving net-negative by veganism and wood burial"
 slug: carbon-sinks
 date: 2026-10-17 08:54:44+0200
 tags:
-    - economics
     - society
     - climate-change
+    - climate-anxiety
 ---
 
 At the moment, the atmosphere has enough carbon dioxide that even if humans stopped all CO2 emissions, it will still keep rising due to a number of [chain reactions](https://en.wikipedia.org/wiki/Tipping_points_in_the_climate_system). The big question then is how do we remove the excess?
